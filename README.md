@@ -1,3 +1,3 @@
 # Problem Solving
 
-## Solving Problems with various programming judges using Python, Javascript, and Typescript.
+## Solving Problems from various programming judges using Python, Javascript, and Typescript.
